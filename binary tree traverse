@@ -1,0 +1,216 @@
+task b
+
+tree binary
+
+                    Vulture
+                   /      \
+                  /        \
+                 /          \
+                /            \
+            monkey            lion
+            /    \            /   \
+           /      \          /     \
+        grass    fruit    zebra   giraffe
+
+
+tree structure analsis
+
+        Root: Vulture
+        
+        Left Subtree (rooted at monkey):
+            - Left child: grass
+            - Right child: fruit
+            
+        Right Subtree (rooted at lion):
+            - Left child: zebra
+            - Right child: giraffe
+            
+        Leaf Nodes: grass, fruit, zebra, giraffe
+
+
+A) IN-ORDER TRAVERSAL
+Rule: Left → Root → Right
+
+Algorithm for In-order Traversal:
+
+Algorithm: InOrderTraversal(node)
+Input: Root node of tree (or subtree)
+
+Step 1: If the node is NULL, return
+Step 2: Recursively traverse the LEFT subtree (InOrderTraversal(node.Left))
+Step 3: VISIT the current node (process node data)
+Step 4: Recursively traverse the RIGHT subtree (InOrderTraversal(node.Right))
+Step 5: End
+
+Step-by-Step In-order Traversal:
+
+Step 1: Start at root (Vulture) → go left to monkey
+Step 2: At monkey → go left to grass
+Step 3: At grass → left is NULL, so VISIT grass
+        ✓ VISITED: grass
+        
+Step 4: Back to monkey → VISIT monkey (after left subtree done)
+        ✓ VISITED: grass, monkey
+        
+Step 5: At monkey → go right to fruit
+Step 6: At fruit → left is NULL, so VISIT fruit
+        ✓ VISITED: grass, monkey, fruit
+        
+Step 7: Back to monkey → left and right done, back to root (Vulture)
+Step 8: At Vulture → left subtree done, so VISIT Vulture
+        ✓ VISITED: grass, monkey, fruit, Vulture
+        
+Step 9: At Vulture → go right to lion
+Step 10: At lion → go left to zebra
+Step 11: At zebra → left is NULL, so VISIT zebra
+        ✓ VISITED: grass, monkey, fruit, Vulture, zebra
+        
+Step 12: Back to lion → VISIT lion (after left subtree done)
+        ✓ VISITED: grass, monkey, fruit, Vulture, zebra, lion
+        
+Step 13: At lion → go right to giraffe
+Step 14: At giraffe → left is NULL, so VISIT giraffe
+        ✓ VISITED: grass, monkey, fruit, Vulture, zebra, lion, giraffe
+
+
+In-order Traversal Result:
+grass → monkey → fruit → Vulture → zebra → lion → giraffe
+
+In-order Traversal Path Diagram:
+
+                    Vulture (4)
+                   /      \
+                  /        \
+                 /          \
+                /            \
+            monkey (2)        lion (6)
+            /    \            /   \
+           /      \          /     \
+     grass (1)  fruit (3) zebra (5) giraffe (7)
+     
+Numbers in parentheses show visit order
+
+
+
+B) PRE-ORDER TRAVERSAL
+Rule: Root → Left → Right
+
+Algorithm for Pre-order Traversal:
+
+Algorithm: PreOrderTraversal(node)
+Input: Root node of tree (or subtree)
+
+Step 1: If the node is NULL, return
+Step 2: VISIT the current node (process node data)
+Step 3: Recursively traverse the LEFT subtree (PreOrderTraversal(node.Left))
+Step 4: Recursively traverse the RIGHT subtree (PreOrderTraversal(node.Right))
+Step 5: End
+
+
+Step-by-Step Pre-order Traversal:
+
+Step 1: Start at root (Vulture) → VISIT Vulture
+        ✓ VISITED: Vulture
+        
+Step 2: Go left to monkey → VISIT monkey
+        ✓ VISITED: Vulture, monkey
+        
+Step 3: Go left to grass → VISIT grass
+        ✓ VISITED: Vulture, monkey, grass
+        
+Step 4: Back to monkey → go right to fruit → VISIT fruit
+        ✓ VISITED: Vulture, monkey, grass, fruit
+        
+Step 5: Back to monkey → left and right done, back to Vulture
+Step 6: At Vulture → go right to lion → VISIT lion
+        ✓ VISITED: Vulture, monkey, grass, fruit, lion
+        
+Step 7: Go left to zebra → VISIT zebra
+        ✓ VISITED: Vulture, monkey, grass, fruit, lion, zebra
+        
+Step 8: Back to lion → go right to giraffe → VISIT giraffe
+        ✓ VISITED: Vulture, monkey, grass, fruit, lion, zebra, giraffe
+
+
+Pre-order Traversal Result:
+Vulture → monkey → grass → fruit → lion → zebra → giraffe
+
+Pre-order Traversal Path Diagram:
+                    Vulture (1)
+                   /      \
+                  /        \
+                 /          \
+                /            \
+            monkey (2)        lion (5)
+            /    \            /   \
+           /      \          /     \
+     grass (3)  fruit (4) zebra (6) giraffe (7)
+     
+Numbers in parentheses show visit order
+
+
+C) POST-ORDER TRAVERSAL
+
+Rule: Left → Right → Root
+
+Algorithm for Post-order Traversal:
+
+Algorithm: PostOrderTraversal(node)
+Input: Root node of tree (or subtree)
+
+Step 1: If the node is NULL, return
+Step 2: Recursively traverse the LEFT subtree (PostOrderTraversal(node.Left))
+Step 3: Recursively traverse the RIGHT subtree (PostOrderTraversal(node.Right))
+Step 4: VISIT the current node (process node data)
+Step 5: End
+
+
+Step-by-Step Post-order Traversal:
+
+Step 1: Start at root (Vulture) → go left to monkey
+Step 2: At monkey → go left to grass
+Step 3: At grass → left and right are NULL, so VISIT grass
+        ✓ VISITED: grass
+        
+Step 4: Back to monkey → go right to fruit
+Step 5: At fruit → left and right are NULL, so VISIT fruit
+        ✓ VISITED: grass, fruit
+        
+Step 6: Back to monkey → both left and right done, so VISIT monkey
+        ✓ VISITED: grass, fruit, monkey
+        
+Step 7: Back to Vulture → go right to lion
+Step 8: At lion → go left to zebra
+Step 9: At zebra → left and right are NULL, so VISIT zebra
+        ✓ VISITED: grass, fruit, monkey, zebra
+        
+Step 10: Back to lion → go right to giraffe
+Step 11: At giraffe → left and right are NULL, so VISIT giraffe
+        ✓ VISITED: grass, fruit, monkey, zebra, giraffe
+        
+Step 12: Back to lion → both left and right done, so VISIT lion
+        ✓ VISITED: grass, fruit, monkey, zebra, giraffe, lion
+        
+Step 13: Back to Vulture → both left and right done, so VISIT Vulture
+        ✓ VISITED: grass, fruit, monkey, zebra, giraffe, lion, Vulture
+
+
+Post-order Traversal Result:
+
+grass → fruit → monkey → zebra → giraffe → lion → Vulture
+
+
+Post-order Traversal Path Diagram:
+
+                    Vulture (7)
+                   /      \
+                  /        \
+                 /          \
+                /            \
+            monkey (3)        lion (6)
+            /    \            /   \
+           /      \          /     \
+     grass (1)  fruit (2) zebra (4) giraffe (5)
+     
+Numbers in parentheses show visit order
+

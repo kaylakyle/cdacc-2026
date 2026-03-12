@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\bin\Debug\net8.0\LinkedListDeletion.exe
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\bin\Debug\net8.0\LinkedListDeletion.deps.json
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\bin\Debug\net8.0\LinkedListDeletion.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\bin\Debug\net8.0\LinkedListDeletion.dll
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\bin\Debug\net8.0\LinkedListDeletion.pdb
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\LinkedListDeletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\LinkedListDeletion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\LinkedListDeletion.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\LinkedListDeletion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\LinkedListDeletion.dll
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\refint\LinkedListDeletion.dll
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\LinkedListDeletion.pdb
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\LinkedListDeletion.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\LinkedListDeletion\obj\Debug\net8.0\ref\LinkedListDeletion.dll

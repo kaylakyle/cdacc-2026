@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\bin\Debug\net8.0\LinkedListProgram.exe
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\bin\Debug\net8.0\LinkedListProgram.deps.json
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\bin\Debug\net8.0\LinkedListProgram.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\bin\Debug\net8.0\LinkedListProgram.dll
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\bin\Debug\net8.0\LinkedListProgram.pdb
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\LinkedListProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\LinkedListProgram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\LinkedListProgram.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\LinkedListProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\LinkedListProgram.dll
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\refint\LinkedListProgram.dll
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\LinkedListProgram.pdb
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\LinkedListProgram.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\LinkedListProgram\obj\Debug\net8.0\ref\LinkedListProgram.dll

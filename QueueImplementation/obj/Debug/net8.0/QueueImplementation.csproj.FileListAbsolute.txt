@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\bin\Debug\net8.0\QueueImplementation.exe
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\bin\Debug\net8.0\QueueImplementation.deps.json
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\bin\Debug\net8.0\QueueImplementation.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\bin\Debug\net8.0\QueueImplementation.dll
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\bin\Debug\net8.0\QueueImplementation.pdb
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\QueueImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\QueueImplementation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\QueueImplementation.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\QueueImplementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\QueueImplementation.dll
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\refint\QueueImplementation.dll
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\QueueImplementation.pdb
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\QueueImplementation.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\QueueImplementation\obj\Debug\net8.0\ref\QueueImplementation.dll

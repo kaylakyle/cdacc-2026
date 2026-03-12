@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.exe
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.deps.json
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.dll
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\bin\Debug\net8.0\FactorialRecursion.pdb
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.dll
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\refint\FactorialRecursion.dll
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.pdb
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\FactorialRecursion.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\FactorialRecursion\obj\Debug\net8.0\ref\FactorialRecursion.dll

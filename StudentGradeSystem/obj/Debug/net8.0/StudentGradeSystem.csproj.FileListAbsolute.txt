@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.exe
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.deps.json
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.dll
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.pdb
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.dll
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\refint\StudentGradeSystem.dll
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.pdb
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\StudentGradeSystem\obj\Debug\net8.0\ref\StudentGradeSystem.dll

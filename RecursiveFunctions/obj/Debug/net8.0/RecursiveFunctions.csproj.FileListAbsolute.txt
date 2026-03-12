@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\bin\Debug\net8.0\RecursiveFunctions.exe
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\bin\Debug\net8.0\RecursiveFunctions.deps.json
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\bin\Debug\net8.0\RecursiveFunctions.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\bin\Debug\net8.0\RecursiveFunctions.dll
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\bin\Debug\net8.0\RecursiveFunctions.pdb
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\RecursiveFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\RecursiveFunctions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\RecursiveFunctions.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\RecursiveFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\RecursiveFunctions.dll
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\refint\RecursiveFunctions.dll
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\RecursiveFunctions.pdb
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\RecursiveFunctions.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\RecursiveFunctions\obj\Debug\net8.0\ref\RecursiveFunctions.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\bin\Debug\net8.0\StackImplementation.exe
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\bin\Debug\net8.0\StackImplementation.deps.json
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\bin\Debug\net8.0\StackImplementation.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\bin\Debug\net8.0\StackImplementation.dll
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\bin\Debug\net8.0\StackImplementation.pdb
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\StackImplementation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\StackImplementation.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\StackImplementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\StackImplementation.dll
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\refint\StackImplementation.dll
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\StackImplementation.pdb
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\StackImplementation.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\StackImplementation\obj\Debug\net8.0\ref\StackImplementation.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\bin\Debug\net8.0\QueueDemoProgram.exe
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\bin\Debug\net8.0\QueueDemoProgram.deps.json
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\bin\Debug\net8.0\QueueDemoProgram.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\bin\Debug\net8.0\QueueDemoProgram.dll
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\bin\Debug\net8.0\QueueDemoProgram.pdb
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\QueueDemoProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\QueueDemoProgram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\QueueDemoProgram.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\QueueDemoProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\QueueDemoProgram.dll
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\refint\QueueDemoProgram.dll
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\QueueDemoProgram.pdb
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\QueueDemoProgram.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\QueueDemoProgram\obj\Debug\net8.0\ref\QueueDemoProgram.dll

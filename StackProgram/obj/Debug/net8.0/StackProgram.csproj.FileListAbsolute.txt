@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CDACC 2026\StackProgram\bin\Debug\net8.0\StackProgram.exe
+C:\Users\User\Desktop\CDACC 2026\StackProgram\bin\Debug\net8.0\StackProgram.deps.json
+C:\Users\User\Desktop\CDACC 2026\StackProgram\bin\Debug\net8.0\StackProgram.runtimeconfig.json
+C:\Users\User\Desktop\CDACC 2026\StackProgram\bin\Debug\net8.0\StackProgram.dll
+C:\Users\User\Desktop\CDACC 2026\StackProgram\bin\Debug\net8.0\StackProgram.pdb
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\StackProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\StackProgram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\StackProgram.AssemblyInfo.cs
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\StackProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\StackProgram.dll
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\refint\StackProgram.dll
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\StackProgram.pdb
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\StackProgram.genruntimeconfig.cache
+C:\Users\User\Desktop\CDACC 2026\StackProgram\obj\Debug\net8.0\ref\StackProgram.dll
