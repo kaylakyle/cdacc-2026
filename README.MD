@@ -50,7 +50,7 @@ Task 7. sort elements
 
 clearly showing how sorting is done using a diagram in each technique your work should be neat use arraws where necessary to show swapping .you will be given an answer sheet to do your working
 
-task 8 search elements
+Task 8 search elements
 you will be provided with answer sheet to perform this task your working should be neat and clear
 
 a)Design a binary tree using the following array elements given below. 
