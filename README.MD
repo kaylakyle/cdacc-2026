@@ -40,7 +40,7 @@ a) implement a stack using an array given above .include the following operation
   iii) peek - return the top element without removing it 
   iv) size - returns the number of elements in the stack the stack
 
-task 7. sort elements
+Task 7. sort elements
 
   given the array elements {5,8,7,2,1,9,4,3} sort the array elements using;
    a) bubble sort algorithm
