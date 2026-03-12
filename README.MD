@@ -71,7 +71,7 @@ b) you are given a binary tree below with the elements in the nodes traverse it 
 
 how do i create the file in c# and run and compile in vscode
 
-dotnet new console -n FactorialRecursion
+
 
 
 
