@@ -69,7 +69,6 @@ b) you are given a binary tree below with the elements in the nodes traverse it 
          grass  fruit      zebra    giraffe
                 
 
-how do i create the file in c# and run and compile in vscode
 
 
 
