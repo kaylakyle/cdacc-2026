@@ -32,7 +32,7 @@ the program should illustate the use of the queue operations below;
  d) Pop
  d) Push
 
-task 6. implement stack data structure
+Task 6. implement stack data structure
 an array contains the following items {5,8,7,2,1,9,4,3} using a c# program ,write a program that contains the following features:
 a) implement a stack using an array given above .include the following operations:
   i) push - add element at the top of the stack
