@@ -23,7 +23,7 @@ write a c# programming language that will illustrate how to delete a node in a s
 Task 4. implement Recursive function in data structure 
 write a program in c# to implement recurrsion function in data structure to calculate the factorial of a number make your program legible by including comments
 
-task 5. implement queue data structure
+Task 5. implement queue data structure
 write a program using c# programming language that implements queue
 the program should illustate the use of the queue operations below;
  a) Front 
