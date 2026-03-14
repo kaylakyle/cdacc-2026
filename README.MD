@@ -1,4 +1,4 @@
-TASK 1.dESIGN dECISON TABLE IN DATA STRUCTURE AND ALGORITHMS C#
+TASK 1.DESIGN DECISON TABLE IN DATA STRUCTURE AND ALGORITHMS C#
 
 THE INSTITUTION YOU ARE WORKING IN AS AN ICT OFFICER HAS REQUESTED THAT YOU DESIGN A DESICION TABLE THAT WILL BE USED TO AWARD STUDENT GRADES BEFORE GRADUATION.
 THEY HAVE COME UP WITH A SCENARIO THAT YOU WILL USE TO DESIGN THE TABLE SO THAT THEY CAN USE IT TO AWARD GRADES.
@@ -17,13 +17,13 @@ a) design a flowchart that accepts one integer and then checks if the integer en
 
 b) write a flowchart that prompts the user to enter 3 integers and compares the three integers then it displas the largest amongst the 3 integers entered.
 
-task 3. implement linked list data structure 
+Task 3. implement linked list data structure 
 write a c# programming language that will illustrate how to delete a node in a singly linked list at the front of the linked list,at the end of the linked list at the specified positioncombine the 3 code to be one complete code to illustrate the 3 deletion of a node 
 
-task 4. implement Recursive function in data structure 
+Task 4. implement Recursive function in data structure 
 write a program in c# to implement recurrsion function in data structure to calculate the factorial of a number make your program legible by including comments
 
-task 5. implement queue data structure
+Task 5. implement queue data structure
 write a program using c# programming language that implements queue
 the program should illustate the use of the queue operations below;
  a) Front 
@@ -32,7 +32,7 @@ the program should illustate the use of the queue operations below;
  d) Pop
  d) Push
 
- task 6. implement stack data structure
+Task 6. implement stack data structure
 an array contains the following items {5,8,7,2,1,9,4,3} using a c# program ,write a program that contains the following features:
 a) implement a stack using an array given above .include the following operations:
   i) push - add element at the top of the stack
@@ -40,7 +40,7 @@ a) implement a stack using an array given above .include the following operation
   iii) peek - return the top element without removing it 
   iv) size - returns the number of elements in the stack the stack
 
-  task 7. sort elements
+Task 7. sort elements
 
   given the array elements {5,8,7,2,1,9,4,3} sort the array elements using;
    a) bubble sort algorithm
@@ -50,7 +50,7 @@ a) implement a stack using an array given above .include the following operation
 
 clearly showing how sorting is done using a diagram in each technique your work should be neat use arraws where necessary to show swapping .you will be given an answer sheet to do your working
 
-task 8 search elements
+Task 8 search elements
 you will be provided with answer sheet to perform this task your working should be neat and clear
 
 a)Design a binary tree using the following array elements given below. 
@@ -69,9 +69,8 @@ b) you are given a binary tree below with the elements in the nodes traverse it 
          grass  fruit      zebra    giraffe
                 
 
-how do i create the file in c# and run and compile in vscode
 
-dotnet new console -n FactorialRecursion
+
 
 
 
