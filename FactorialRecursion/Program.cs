@@ -35,22 +35,3 @@ class Program
     }
 }
 
-//how it works
-// How the Program Works
-
-//The user is prompted to enter a non-negative integer.
-
-//The program reads the input and validates it using int.TryParse.
-
-//The Factorial function is called recursively:
-
-//Base case: 0! = 1 or 1! = 1
-
-//Recursive case: n! = n * Factorial(n - 1)
-
-//The result is displayed.
-
-//examle output
-//Enter a number to calculate factorial:
-//5
-//Factorial of 5 is: 120

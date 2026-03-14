@@ -2,7 +2,7 @@
 
 class SortingDemo
 {
-    // ----------------- Bubble Sort -----------------
+    // Bubble Sort 
     public static void BubbleSort(int[] arr)
     {
         int n = arr.Length;
@@ -20,7 +20,7 @@ class SortingDemo
         }
     }
 
-    // ----------------- Selection Sort -----------------
+    //  Selection Sort 
     public static void SelectionSort(int[] arr)
     {
         int n = arr.Length;
@@ -38,7 +38,7 @@ class SortingDemo
         }
     }
 
-    // ----------------- Quick Sort -----------------
+    // - Quick Sort 
     public static void QuickSort(int[] arr, int low, int high)
     {
         if (low < high)
@@ -73,7 +73,7 @@ class SortingDemo
         return i + 1;
     }
 
-    // ----------------- Merge Sort -----------------
+    //  Merge Sort 
     public static void MergeSort(int[] arr, int left, int right)
     {
         if (left < right)
