@@ -6,7 +6,7 @@ class StackArray
     private int top;          // Index of the top element
     private int capacity;     // Maximum capacity of the stack
 
-    // Constructor to initialize the stack with given array
+    // Constructor initialize the stack with given array
     public StackArray(int[] initialArray)
     {
         capacity = initialArray.Length;
