@@ -2,7 +2,7 @@
 
 class StackArray
 {
-    private int[] stackArray; // Array to store stack elements
+    private int[] stackArray; // Array store stack elements
     private int top;          // Index of the top element
     private int capacity;     // Maximum capacity of the stack
 
