@@ -125,7 +125,6 @@ class Program
 //1 pushed onto stack.
 //9 pushed onto stack.
 //4 pushed onto stack.
-//3 pushed 
 
 // Initial stack:
 //Stack elements (top to bottom): 3 4 9 1 2 7 8 5
