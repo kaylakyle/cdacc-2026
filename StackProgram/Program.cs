@@ -108,7 +108,7 @@ class Program
         stack.Push(10); // Push new 
         stack.Display();
 
-        stack.Pop(); // Remove top element
+        stack.Pop(); // Remove top 
         stack.Display();
 
         Console.WriteLine($"Top element (Peek): {stack.Peek()}");
