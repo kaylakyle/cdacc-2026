@@ -105,7 +105,7 @@ class Program
         stack.Display();
 
         // Demonstrate stack operations
-        stack.Push(10); // Push new element
+        stack.Push(10); // Push new 
         stack.Display();
 
         stack.Pop(); // Remove top element
