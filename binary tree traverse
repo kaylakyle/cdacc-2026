@@ -47,7 +47,7 @@ Step-by-Step In-order Traversal:
 Step 1: Start at root (Vulture) → go left to monkey
 Step 2: At monkey → go left to grass
 Step 3: At grass → left is NULL, so VISIT grass
-        ✓ VISITED: grass
+      =  ✓ VISITED: grass
         
 Step 4: Back to monkey → VISIT monkey (after left subtree done)
         ✓ VISITED: grass, monkey
