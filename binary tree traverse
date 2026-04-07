@@ -66,7 +66,7 @@ Step 11: At zebra → left is NULL, so VISIT zebra
       =  ✓ VISITED: grass, monkey, fruit, Vulture, zebra
         
 Step 12: Back to lion → VISIT lion (after left subtree done)
-        ✓ VISITED: grass, monkey, fruit, Vulture, zebra, lion
+      = ✓ VISITED: grass, monkey, fruit, Vulture, zebra, lion
         
 Step 13: At lion → go right to giraffe
 Step 14: At giraffe → left is NULL, so VISIT giraffe
