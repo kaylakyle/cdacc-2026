@@ -186,7 +186,7 @@ Step 9: At zebra → left and right are NULL, so VISIT zebra
         
 Step 10: Back to lion → go right to giraffe
 Step 11: At giraffe → left and right are NULL, so VISIT giraffe
-        ✓ VISITED: grass, fruit, monkey, zebra, giraffe
+     =   ✓ VISITED: grass, fruit, monkey, zebra, giraffe
         
 Step 12: Back to lion → both left and right done, so VISIT lion
         ✓ VISITED: grass, fruit, monkey, zebra, giraffe, lion
