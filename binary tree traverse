@@ -174,7 +174,7 @@ Step 3: At grass → left and right are NULL, so VISIT grass
         
 Step 4: Back to monkey → go right to fruit
 Step 5: At fruit → left and right are NULL, so VISIT fruit
-        ✓ VISITED: grass, fruit
+     =   ✓ VISITED: grass, fruit
         
 Step 6: Back to monkey → both left and right done, so VISIT monkey
         ✓ VISITED: grass, fruit, monkey
