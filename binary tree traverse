@@ -58,7 +58,7 @@ Step 6: At fruit → left is NULL, so VISIT fruit
         
 Step 7: Back to monkey → left and right done, back to root (Vulture)
 Step 8: At Vulture → left subtree done, so VISIT Vulture
-        ✓ VISITED: grass, monkey, fruit, Vulture
+      =  ✓ VISITED: grass, monkey, fruit, Vulture
         
 Step 9: At Vulture → go right to lion
 Step 10: At lion → go left to zebra
