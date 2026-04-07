@@ -133,7 +133,7 @@ Step 8: Back to lion → go right to giraffe → VISIT giraffe
 
 
 Pre-order Traversal Result:
-Vulture → monkey → grass → fruit → lion → zebra → giraffe
+=  Vulture → monkey → grass → fruit → lion → zebra → giraffe
 
 Pre-order Traversal Path Diagram:
                     Vulture (1)
