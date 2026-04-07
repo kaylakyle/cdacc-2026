@@ -197,7 +197,7 @@ Step 13: Back to Vulture → both left and right done, so VISIT Vulture
 
 Post-order Traversal Result:
 
-grass → fruit → monkey → zebra → giraffe → lion → Vulture
+=  grass → fruit → monkey → zebra → giraffe → lion → Vulture
 
 
 Post-order Traversal Path Diagram:
