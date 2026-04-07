@@ -74,7 +74,7 @@ Step 14: At giraffe → left is NULL, so VISIT giraffe
 
 
 In-order Traversal Result:
-grass → monkey → fruit → Vulture → zebra → lion → giraffe
+=  grass → monkey → fruit → Vulture → zebra → lion → giraffe
 
 In-order Traversal Path Diagram:
 
