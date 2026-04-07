@@ -129,7 +129,7 @@ Step 7: Go left to zebra → VISIT zebra
        = ✓ VISITED: Vulture, monkey, grass, fruit, lion, zebra
         
 Step 8: Back to lion → go right to giraffe → VISIT giraffe
-        ✓ VISITED: Vulture, monkey, grass, fruit, lion, zebra, giraffe
+       = ✓ VISITED: Vulture, monkey, grass, fruit, lion, zebra, giraffe
 
 
 Pre-order Traversal Result:
