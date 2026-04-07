@@ -54,7 +54,7 @@ Step 4: Back to monkey → VISIT monkey (after left subtree done)
         
 Step 5: At monkey → go right to fruit
 Step 6: At fruit → left is NULL, so VISIT fruit
-        ✓ VISITED: grass, monkey, fruit
+      = ✓ VISITED: grass, monkey, fruit
         
 Step 7: Back to monkey → left and right done, back to root (Vulture)
 Step 8: At Vulture → left subtree done, so VISIT Vulture
