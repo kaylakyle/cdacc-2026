@@ -182,7 +182,7 @@ Step 6: Back to monkey → both left and right done, so VISIT monkey
 Step 7: Back to Vulture → go right to lion
 Step 8: At lion → go left to zebra
 Step 9: At zebra → left and right are NULL, so VISIT zebra
-        ✓ VISITED: grass, fruit, monkey, zebra
+     =  ✓ VISITED: grass, fruit, monkey, zebra
         
 Step 10: Back to lion → go right to giraffe
 Step 11: At giraffe → left and right are NULL, so VISIT giraffe
