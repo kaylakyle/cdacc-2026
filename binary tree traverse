@@ -177,7 +177,7 @@ Step 5: At fruit → left and right are NULL, so VISIT fruit
      =   ✓ VISITED: grass, fruit
         
 Step 6: Back to monkey → both left and right done, so VISIT monkey
-        ✓ VISITED: grass, fruit, monkey
+     =   ✓ VISITED: grass, fruit, monkey
         
 Step 7: Back to Vulture → go right to lion
 Step 8: At lion → go left to zebra
