@@ -119,7 +119,7 @@ Step 3: Go left to grass → VISIT grass
        = ✓ VISITED: Vulture, monkey, grass
         
 Step 4: Back to monkey → go right to fruit → VISIT fruit
-        ✓ VISITED: Vulture, monkey, grass, fruit
+       = ✓ VISITED: Vulture, monkey, grass, fruit
         
 Step 5: Back to monkey → left and right done, back to Vulture
 Step 6: At Vulture → go right to lion → VISIT lion
