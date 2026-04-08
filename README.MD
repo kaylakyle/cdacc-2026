@@ -1,4 +1,4 @@
-TASK 1.DESIGN DECISON TABLE IN DATA STRUCTURE AND ALGORITHMS C#
+ TASK 1.DESIGN DECISON TABLE IN DATA STRUCTURE AND ALGORITHMS C#
 
 THE INSTITUTION YOU ARE WORKING IN AS AN ICT OFFICER HAS REQUESTED THAT YOU DESIGN A DESICION TABLE THAT WILL BE USED TO AWARD STUDENT GRADES BEFORE GRADUATION.
 THEY HAVE COME UP WITH A SCENARIO THAT YOU WILL USE TO DESIGN THE TABLE SO THAT THEY CAN USE IT TO AWARD GRADES.
@@ -9,7 +9,7 @@ SCENARIO
 A STUDENT WHO PASSES the examination and completes the course work and project satisfactorly is awarded a pass.if the course work and the project are unsatisfactory,the student is asked to resubmit the unsatisfactory work ,as long as the exams have been passed.A student who fails the examinations is deemed to have failed the whole course unless both the course work and the projecr are satisfactory,IN WHICH CASE THE STUDENT IS ALLOWED TO RE-SIT THE EXAMINATION
 
 
-Task 2 design a flowchart in data structure and algoriths c#
+TASK 2. Design a flowchart in data structure and algoriths c#
 
 in the tasks you are supposed to design a flowchart that will depict the flow of a program graphically using a flowchart.
 
