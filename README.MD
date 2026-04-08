@@ -42,7 +42,7 @@ a) implement a stack using an array given above .include the following operation
 
 TASK 7. Sort elements
 
-  given the array elements {5,8,7,2,1,9,4,3} sort the array elements using;
+  Given the array elements {5,8,7,2,1,9,4,3} sort the array elements using;
    a) bubble sort algorithm
    b) quick sort algorithm
    c) merge sort algorithm
