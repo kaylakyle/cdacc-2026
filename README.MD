@@ -1,4 +1,4 @@
- TASK 1.DESIGN DECISON TABLE IN DATA STRUCTURE AND ALGORITHMS C#
+ TASK 1. DESIGN DECISON TABLE IN DATA STRUCTURE AND ALGORITHMS C#
 
 THE INSTITUTION YOU ARE WORKING IN AS AN ICT OFFICER HAS REQUESTED THAT YOU DESIGN A DESICION TABLE THAT WILL BE USED TO AWARD STUDENT GRADES BEFORE GRADUATION.
 THEY HAVE COME UP WITH A SCENARIO THAT YOU WILL USE TO DESIGN THE TABLE SO THAT THEY CAN USE IT TO AWARD GRADES.
@@ -20,7 +20,7 @@ b) write a flowchart that prompts the user to enter 3 integers and compares the 
 TASK 3. Implement linked list data structure 
 write a c# programming language that will illustrate how to delete a node in a singly linked list at the front of the linked list,at the end of the linked list at the specified positioncombine the 3 code to be one complete code to illustrate the 3 deletion of a node 
 
-TASK 4. implement Recursive function in data structure 
+TASK 4. Implement Recursive function in data structure 
 write a program in c# to implement recurrsion function in data structure to calculate the factorial of a number make your program legible by including comments
 
 TASK 5. Implement queue data structure
@@ -32,7 +32,7 @@ the program should illustate the use of the queue operations below;
  d) Pop
  d) Push
 
-TASK 6. implement stack data structure
+TASK 6. Implement stack data structure
 an array contains the following items {5,8,7,2,1,9,4,3} using a c# program ,write a program that contains the following features:
 a) implement a stack using an array given above .include the following operations:
   i) push - add element at the top of the stack
