@@ -11,11 +11,11 @@ A STUDENT WHO PASSES the examination and completes the course work and project s
 
 TASK 2. Design a flowchart in data structure and algoriths c#
 
-in the tasks you are supposed to design a flowchart that will depict the flow of a program graphically using a flowchart.
+In the tasks you are supposed to design a flowchart that will depict the flow of a program graphically using a flowchart.
 
-a) design a flowchart that accepts one integer and then checks if the integer entered is odd or even
+a) Design a flowchart that accepts one integer and then checks if the integer entered is odd or even
 
-b) write a flowchart that prompts the user to enter 3 integers and compares the three integers then it displas the largest amongst the 3 integers entered.
+b) Write a flowchart that prompts the user to enter 3 integers and compares the three integers then it displas the largest amongst the 3 integers entered.
 
 TASK 3. Implement linked list data structure 
 write a c# programming language that will illustrate how to delete a node in a singly linked list at the front of the linked list,at the end of the linked list at the specified positioncombine the 3 code to be one complete code to illustrate the 3 deletion of a node 
