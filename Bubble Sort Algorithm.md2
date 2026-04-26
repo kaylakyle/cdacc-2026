@@ -1,7 +1,9 @@
 A) BUBBLE SORT ALGORITHM
+
 Description: Repeatedly steps through the list, compares adjacent elements, and swaps them if they're in the wrong order.
 
 Step-by-Step Diagram:
+
 Initial Array: [5, 8, 7, 2, 1, 9, 4, 3]
 
 PASS 1:
