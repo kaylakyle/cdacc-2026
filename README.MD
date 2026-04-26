@@ -56,7 +56,7 @@ TASK 8 Search elements
 
 you will be provided with answer sheet to perform this task your working should be neat and clear
 
-a)Design a binary tree using the following array elements given below. 
+a) Design a binary tree using the following array elements given below. 
      
      18,17,6,9,20,19,28,28,27,33,16,22,4
 
