@@ -1,5 +1,7 @@
 task a)
+
 Method 1: Binary Search Tree  Construction
+
 In a Binary Search Tree, for each node:
 
 Left child contains values less than the parent node
