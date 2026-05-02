@@ -20,7 +20,7 @@ b) Write a flowchart that prompts the user to enter 3 integers and compares the 
 TASK 3. Implement linked list data structure in c#
 Write a c# programming language that will illustrate how to delete a node in a singly linked list at the front of the linked list,at the end of the linked list at the specified positioncombine the 3 code to be one complete code to illustrate the 3 deletion of a node 
 
-TASK 4. Implement Recursive function in data structure 
+TASK 4. Implement Recursive function in data structure in c#
 Write a program in c# to implement recurrsion function in data structure to calculate the factorial of a number make your program legible by including comments
 
 TASK 5. Implement queue data structure
