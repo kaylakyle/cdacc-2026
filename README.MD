@@ -17,7 +17,7 @@ a) Design a flowchart that accepts one integer and then checks if the integer en
 
 b) Write a flowchart that prompts the user to enter 3 integers and compares the three integers then it displas the largest amongst the 3 integers entered.
 
-TASK 3. Implement linked list data structure 
+TASK 3. Implement linked list data structure in c#
 Write a c# programming language that will illustrate how to delete a node in a singly linked list at the front of the linked list,at the end of the linked list at the specified positioncombine the 3 code to be one complete code to illustrate the 3 deletion of a node 
 
 TASK 4. Implement Recursive function in data structure 
